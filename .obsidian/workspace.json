@@ -4,11 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "cba4f38cb14a86a7",
+        "id": "7c90ed6d3b047d28",
         "type": "tabs",
         "children": [
           {
-            "id": "177e099ac88157cc",
+            "id": "c5f10e2eabf06cab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bugbounty Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "208b1c7476157cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OLX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3756845c2d2ac078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manomano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c17c79bb1f46daf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,19 +54,43 @@
             }
           },
           {
-            "id": "1cbd1acfde0d6743",
+            "id": "dfe62d65e709a6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active directory.md",
+                "file": "csrf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e77c0bbce9e2541e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kiwi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "062cf49f86c8d8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -102,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active directory.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active directory.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active directory.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -163,22 +225,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cbd1acfde0d6743",
+  "active": "062cf49f86c8d8b0",
   "lastOpenFiles": [
-    "Pasted image 20230531200026.png",
-    "Pasted image 20230531195822.png",
-    "Pasted image 20230531193649.png",
-    "Pasted image 20230531192014.png",
-    "Pasted image 20230531184819.png",
-    "Pasted image 20230531144642.png",
-    "Pasted image 20230531144538.png",
-    "Pasted image 20230531144420.png",
-    "Pasted image 20230531144357.png",
-    "Pasted image 20230531143956.png",
-    "Pasted image 20230531143840.png",
-    "Active directory.md",
-    "ME.md",
+    "pictures/Pasted image 20230711202838.png",
+    "pictures/Pasted image 20230711025813.png",
+    "pictures/Pasted image 20230711025652.png",
+    "pictures/Pasted image 20230711025612.png",
+    "pictures/Pasted image 20230711025116.png",
+    "pictures/Pasted image 20230711024748.png",
+    "pictures/Pasted image 20230711023632.png",
+    "pictures/Pasted image 20230711023516.png",
+    "pictures/Pasted image 20230711022824.png",
+    "pictures/Pasted image 20230711022212.png",
+    "pictures/Pasted image 20230711022055.png",
+    "cisco roadmap.md",
+    "ipv6.md",
+    "Bugbounty Checklist.md",
+    "Untitled 1.md",
     "Untitled 1.canvas",
-    "Untitled.canvas"
+    "kiwi.md",
+    "csrf.md",
+    "manomano.md",
+    "OLX.md",
+    "general notes.md",
+    "Cisco/VLan.md",
+    "hackthebox/sandworm.md",
+    "Ethernet.md",
+    "Untitled.canvas",
+    "cli.md",
+    "Cisco/ospf.md",
+    "Cisco/Enhanced interior Gateway Routing Protocol.md",
+    "Cisco/Routing Infromation protocol.md",
+    "Dynamic routing.md",
+    "Cisco/Routing Fundamental.md",
+    "First Hop Redundancy protocols.md",
+    "Cisco/networking.md",
+    "Cisco/EtherChannel.md",
+    "Cisco/spanning tree protocol.md",
+    "Juspay Learnathon.md",
+    "Aux/ingress.md",
+    "kubernetes grafana prometheus.md",
+    "Untitled",
+    "Cisco",
+    "Aux",
+    "hackthebox",
+    "pictures"
   ]
 }
